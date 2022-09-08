@@ -1,6 +1,7 @@
-# mcmc-fitting
+# The Magnetic Field versus Density Relation in Star-forming Molecular Clouds 
+# MCMC-fitting
 
-The Magnetic Field versus Density Relation in Star-forming Molecular Clouds
+
 
 
 We study the magnetic field to density (B–ρ) relation in turbulent molecular clouds with dynamically important
