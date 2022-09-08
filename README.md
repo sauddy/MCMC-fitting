@@ -1,3 +1,4 @@
+![Complete_fit](https://user-images.githubusercontent.com/46558389/189010451-8538b246-87cc-4f88-b718-204ae8b6a040.jpg)
 # The Magnetic Field versus Density Relation in Star-forming Molecular Clouds 
 # MCMC-fitting
 
