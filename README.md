@@ -16,3 +16,8 @@ pressure β0. This implies that ρT, which denotes the transition in mass-to-flu
 The paper is Published in Astrophysical Journal Letter
 
 https://iopscience.iop.org/article/10.3847/2041-8213/ac5a5a/pdf
+
+
+
+https://user-images.githubusercontent.com/46558389/189010214-8337c2db-2cc5-4b6f-a01a-6ead8ec0d51f.mov
+
